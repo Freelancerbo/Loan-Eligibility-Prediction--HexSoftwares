@@ -1,5 +1,3 @@
-# Loan-Eligibility-Prediction--HexSoftwares
-
 # Loan Eligibility Prediction - HexSoftwres Internship
 This project predicts loan eligibility using machine learning models (Logistic Regression, Decision Tree, Random Forest) for my HexSoftwres internship.
 
